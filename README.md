@@ -12,5 +12,5 @@
 </div>  
 </br>
 
-Aoba! My name is William, and I'm currently learning to create games on the Godot Game Engine using GDScript :)
+Aoba! My name is William, and I'm currently learning to create games on the Godot Game Engine using GDScript.
 
