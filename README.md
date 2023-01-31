@@ -12,5 +12,5 @@
 </div>  
 </br>
 
-Hello! My name is William, and I'm currently learning to create games on the Godot Game Engine using GDScript.
+Hello! My name is William, and I'm currently learning to create games on the GameMaker with GML.
 
