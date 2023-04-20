@@ -13,7 +13,7 @@
 </div>  
 </br>
 
-Hello! My name is William, and I'm currently learning web development and learning english.
+Oi! Meu nome é William e atualmente estou aprendendo Desenvolvimento Web utilizando tecnologias como HTML, CSS e JavaScript.
 
 ### Tecnologias que estou aprendendo:
 
