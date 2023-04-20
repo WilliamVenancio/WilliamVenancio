@@ -7,7 +7,7 @@
 </div>  
 </br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aclr11&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamVenancio&layout=compact&langs_count=7&theme=dark"/>
 
 Hello! My name is William, and I'm currently learning web development and learning english.
 
