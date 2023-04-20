@@ -7,7 +7,7 @@
 </div>  
 </br>
 
-Hello! My name is William, and I'm currently learning to create games on the GameMaker with GML.
+Hello! My name is William, and I'm currently learning web development and learning english.
 
 <br>
 <div> 
