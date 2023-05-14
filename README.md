@@ -13,6 +13,6 @@
 </div>  
 </br>
 
-Oi! Meu nome é William e atualmente estou aprendendo Desenvolvimento Web utilizando tecnologias como HTML, CSS e JavaScript.
+Opa! Se você quer saber estou atualmente entrando nesse mundo do Desenvolvimento Web, por enquanto estou aprendendo o front-end, mas pretendo me especializar para ser um Dev Full-Stack. Se tiver alguma dica ou só quiser conversar meu discord está no meu perfil.
 
 #
