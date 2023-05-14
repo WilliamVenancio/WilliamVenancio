@@ -9,6 +9,7 @@
  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamVenancio&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 </br>
+
 #
 
  Opa! Se você quer saber estou atualmente entrando nesse mundo do Desenvolvimento Web, por enquanto estou aprendendo o front-end, mas pretendo me especializar para ser um Dev Full-Stack. Se tiver alguma dica ou só quiser conversar meu discord está no meu perfil.
