@@ -1,12 +1,14 @@
 
 # E aí! 👋 
- <br>
+<br>
 <div align="left">
   <a href="https://github.com/WilliamVenancio">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=WilliamVenancio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WilliamVenancio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+ <div align="left">
+ <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamVenancio&layout=compact&langs_count=7&theme=dracula"/>
+ </div>
 </br>
-
 #
 
  Opa! Se você quer saber estou atualmente entrando nesse mundo do Desenvolvimento Web, por enquanto estou aprendendo o front-end, mas pretendo me especializar para ser um Dev Full-Stack. Se tiver alguma dica ou só quiser conversar meu discord está no meu perfil.
