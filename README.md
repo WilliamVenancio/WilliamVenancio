@@ -12,10 +12,6 @@
 
 #
  
-<div>
-Ou me mande um <a href="mailto:venanciomarcelinowilliam@gmail.com">Email</a>.
-</div>
-
 ## Tecologias que estou aprendendo:
 
 [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
