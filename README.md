@@ -9,8 +9,10 @@
  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamVenancio&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 </br>
- 
-## Tecologias que estou aprendendo:
+
+#
+
+# Tecologias que estou aprendendo:
 
 [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
