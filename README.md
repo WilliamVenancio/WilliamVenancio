@@ -13,7 +13,7 @@ I like programming and I'm starting in this area, I started with the front-end b
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-<br><br>
-
-<img scr="https://media.discordapp.net/attachments/810216176243441715/1122937984396824698/kaguya-shinomiya-tea.gif" width="700px">
-
+#
+<div align="left">
+<img src="https://github.com/WilliamVenancio/WilliamVenancio/assets/65145639/14aa0f8c-7022-41e0-b3c3-5e0cc186231d" width="400px"/> 
+</div>
