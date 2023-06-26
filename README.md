@@ -1,7 +1,10 @@
 ## Opa! WilliamVenancio aqui!
 
+Eu gosto de programação e estou inicando nessa área, comecei com o básico do front-end, a meta é me tornar um dev full-stack.
 
-O que estou aprendendo:
+I like programming and I'm starting in this area, I started with the front-end basics, the goal is to become a full-stack dev.
+
+### O que estou aprendendo:
 
 #### Linguagens:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
