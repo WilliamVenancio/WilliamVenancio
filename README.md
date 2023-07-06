@@ -4,7 +4,7 @@ Eu gosto de programação e estou inicando nessa área, comecei com o básico do
 
 I like programming and I'm starting in this area, I started with the front-end basics, the goal is to become a full-stack dev.
 
-### O que estou aprendendo:
+### Learning:
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
@@ -15,7 +15,3 @@ I like programming and I'm starting in this area, I started with the front-end b
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 #
-
-<div align="left">
-<img src="https://github.com/WilliamVenancio/WilliamVenancio/assets/65145639/14aa0f8c-7022-41e0-b3c3-5e0cc186231d" width="300px"/> 
-</div>
