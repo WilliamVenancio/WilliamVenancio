@@ -2,10 +2,7 @@
 
 ### Seja bem-vindo(a)
 
-### Contato
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamvenancioo/)
-
+###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamVenancio&show_icons=true&theme=dark&count_private=false)
 
@@ -16,5 +13,10 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
 </div></br>
+
+### Contato
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamvenancioo/)
+
 
 <img src="https://github.com/WilliamVenancio/WilliamVenancio/assets/65145639/201dcfa8-f082-4f11-9afd-8560f1793f83d" alt="hermione" width="250">
