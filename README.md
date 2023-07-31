@@ -9,6 +9,9 @@ Hello, I'm a little guy there who likes technology and games. I'm almost finishi
 I like to be creative, so I think design programming is great for me. I always have ideas that I would like to see put into practice and working, so I study as much as I can to make it happen.
 
 Have a good day!
+
+discord: williamvenan
+
 </br>
 
 <div> 
