@@ -4,7 +4,11 @@
 
 ###
 
-Studying Web Development.
+Hello, I'm a little guy there who likes technology and games. I'm almost finishing high school and technical course. I'm currently learning web development, the goal is to become a FullStack Dev.
+
+I like to be creative, so I think design programming is great for me. I always have ideas that I would like to see put into practice and working, so I study as much as I can to make it happen.
+
+Have a good day!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamVenancio&show_icons=true&theme=dark&count_private=false)
 
