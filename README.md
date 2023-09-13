@@ -10,7 +10,7 @@ I like to be creative, so I think design programming is great for me. I always h
 
 Have a good day!
 
-discord: williamvenan
+discord: willdzera
 
 </br>
 
