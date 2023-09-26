@@ -12,6 +12,9 @@ Have a good day!
 
 discord: willdzera
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<399682368929136640>)
+
+
 </br>
 
 <div> 
